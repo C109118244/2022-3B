@@ -21,7 +21,7 @@
 * 4
 
 
-![96](96.png)
+![fake](fake.jpg)
 
 ```javascript
 let lz = "luozhengh"
