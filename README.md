@@ -14,12 +14,6 @@
 > 1st
 >> 1.42
 >> 1.69
-> 2nd
->> 2.16
->> 2.55
-> 3rd
->> 3.11
->> 3.25
 
 * 1st
 * 2nd
@@ -33,3 +27,6 @@
 let lz = "luozhengh"
 alert(lz)
 ```
+- [ ] todo list
+- [ ] 2nd
+- [X] done
